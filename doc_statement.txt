@@ -1,0 +1,50 @@
+Dr.ALI REZA:113201:29:NEUROLOGY:Male:DMC:MBBS:30000:O+:alireza.dmc@gmail.com
+Prof.Dr.Ahmed Imtiaz:113202:40:PHYSICOLOGIST:Male:BSMMU:PhD:100000:AB+:imtiazahmed.bsmmu@gmail.com
+Dr.Krisnedu Gopal:113203:38:DENTIST:Male:SSMC:FCPS:45000:A+:gopal.ssmc@gmail.com
+Dr.Maliha Khan:113204:33:MICROBIOLOGY:Female:CMCH:MBBS:80000:O-:maliha.cmch@gmail.com
+Dr.NAHIAN NOYON:113205:34:Plastic Surgery:Male:AMC:FCPS:120000:AB-:nahian.amc@gmail.com
+Dr.JOYMALA RANI:113206:36:DENTIST:Female:DMC:MBBS:40000:B+:ranimala.dmc@gmail.com
+Dr.SHIYNA SHILA:113207:29:Plastic Surgery:Female:SOMC:MBBS:32000:O-:shila.somc@gmail.com
+Dr.LOLITA RANI:113208:29:NEUROLOGY:Female:DMC:FCPS:48000:B+:lolita.dmc@gmail.com
+Dr.SAVITA ROY:113209:45:MICROBIOLOGY:Female:DMC:MBBS:50000:O+:savita.dmc@gmail.com
+Dr.MOLLAH SYAID:113210:40:DENTIST:Male:SOMC:MBBS:40000:O+:mollah.somc@gmail.com
+Dr.CHOYNIKA RAIHAN:113211:35:Plastic Surgon:Female:DMC:MBBS:45000:O-:choynika.dmc@gmail.com
+Dr.RAIHAN MUN:113212:39:NEUROLOGY:Male:DMC:MBBS:35000:B+:raihan.dmc@gmail.com
+Dr.SHOMA BEGUM:113213:35:DENTIST:Female:ShSMC:FCPS:38000:B+:shoma.shmc@gmail.com
+Dr.AL-AHSAN:113214:36:Plastic Surgeon:Male:CMC:MBBS:45000:AB-:alhsasn.cmc@gmail.com
+Dr.JIBON NHAR:113215:33:NEUROLOGY:Female:RMC:MBBS:30000:A-:jibonnahar.rmc@gmail.com
+Dr.SUMON REZA:113216:48:PHYSIOLOGIST:Male:SSMC:PhD:100000:B-:sumonreza.ssmc@gmail.com
+Dr.JILLUR RAHMAN:113217:35:NEUROLOGY:Male:DMC:MBBS:40000:AB+:jillur.dmc@gmail.com
+Dr.HASAN MASUD:113218:39:DENTIST:Male:MMC:FCPS:40000:O-:hasan.mmc@gmail.com
+Dr.SHUVASISH ROY:113219:37:NEUROLOGY:Male:SSMC:MBBS:33000:B+:shuvasish.ssmc@gmail.com
+Dr.ANTORA JAHAN:113220:39:Plastic Surgeon:Female:CoMC:FCPS:40500:O+:antora.comc@gmail.com
+Dr.RATRI HASAN:113221:40:DENTIST:Female:DMC:FCPS:35000:AB+:ratri.dmc@gmail.com
+Dr.JANNATUL AHSAN:113222:35:NEUROLOGY:Female:SSMC:MBBS:31000:A-:jannatul.ssmc@gmail.com
+Dr.SUNAIYA JAHAN:113223:41:MICROBIOLOGY:Female:DMC:MBBS:39000:A+:suniaya.dmc@gmail.com
+Dr.DIPU RAIRAN:113224:33:DENTIST:Male:RMC:FCPS:34500:O-:dipu.rmc@gmail.com
+Dr.FATEMA FERDOWS:113225:38:Plustic Surgeon:Female:CMC:FCPS:45000:AB+:fatema.cmc@gmail.com
+Dr.WALIULLAH KHAN:113226:34:PHYSIOLOGIST:Female:DMC:PhD:82000:O+:waliullah.dmc@gmail.com
+Dr.ANIKA ANWAR:113227:41:MICROBIOLOGY:Female:SOMC:PhD:30000:B+:anika.somc@gmail.com
+Dr.FAHAD KHAN:11322:30:NEUROLOGY:Male:DMC:MBBS:35000:B-:fahad.dmc@gmail.com
+Dr.HELAL MAHMUD:113229:31:DENTIST:Male:DMC:MBBS:31000:A+:helal.dmc@gmail.com
+Dr.SYED IMRAN:113230:35:Plsatic Surgeon:Male:ShSMC:FCPS:45000:O-:imran.shsmc@gmail.com
+Dr.MARIYA SAHA:113231:29:NEUROLOGY:Female:DMC:MBBS:30000:AB-:mariya.dmc@gmail.com
+Dr.SATHI ALOMGIR:113232:29:NEUROLOGY:Female:SSMC:MBBS:36000:B+:sathi.ssmc@gmail.com
+Dr.SHAKIR HOSSAIN:113233:41:MICROBIOLOGY:Male:DMC:PhD:100000:O+:shakir.dmc@gmail.com
+Dr.MARGIYA HAQUE:113234:34:DENTIST:Female:RMC:MBBS:40000:A+:marjia.rmc@gmail.com
+Dr.SALINA PARVIN:113235:40:NEUROLOGY:Female:DMC:MBBS:41000:B-:salina.dmc@gmail.com
+Dr.AHONA KHAN:113236:43:Plsatic Surgeon:Female:DMC:MBBS:39000:AB+:ahona.dmc@gmail.com
+Dr.ISRAT JAHAN:113237:33:PHYSIOLOGIST:Female:MMC:FCPS:30000:A-:israt.mmc@gmail.com
+Dr.MOHAIMINUL HAQUE:113238:37:DENTIST:Male:DMC:FCPS:31000:O+:mohaiminul.dmc@gmail.com
+Dr.ABDUL Aziz:113239:30:NEUROLOGY:Male:SOMC:MBBS:33000:A-:aziz.somc@gmail.com
+Dr.MOMINUL HAQUE:113240:37:MICROBIOLOGY:Male:DMC:MBBS:38000:AB-:mominul.dmc@gmail.com
+Dr.JATINDAR BARAR:113241:41:Plastic Surgeon:Male:RMC:MBBS:41000:B+:jarinda.rmc@gmail.com
+Dr.DINESAH KARTIK:113242:36:DANTIST:Male:SOMC:CMC:35000:AB+:kartik.smc@gmail.com
+Dr.SAEYNA BADI:113243:35:NEUROLOGY:Female:DMC:MBBS:36000:B+:badi.dmc@gmail.com
+Dr.REJOY CHAKMA:113244:37:NEUROLOGY:Male:SSMC:MBBS:39000:O-:rejoy.ssmc@gmail.com
+Dr.SAYEDA PARVIN:113245:35:PHYSILOGIST:Female:DMC:FCPS:37000:A+:parvin.dmc@gmail.com
+Dr.RABINDRONATH TAGOR:113246:33:DANTIST:Male:RMC:FCPS:32000:A-:rabindtonath.dmc@gmail.com
+Dr.AYSHA HAYAT:113247:39:Plastic SurGeon:Female:ShSMC:MBBS:36000:AB+:aysha.shsmc@gmail.com
+Dr.ONULIPI SAHA:113248:35:NEUROLOGY:Female:DMC:MBBS:30000:O+:onulipi.dmc@gmail.com
+Dr.LIPI AHSAN:113249:40:MICROBIOLOGY:Female:DMC:MBBS:38000:B+:lipi.dmc@gmail.com
+Dr.CHATUR SING:113250:37:DANTIST:Male:MMC:MBBS:35000:B-:chatur.mmc@gmail.com
